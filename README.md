@@ -1,5 +1,3 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
-
 # Lab | Matplotlib and Seaborn Deep Dive
 
 ## Introduction
